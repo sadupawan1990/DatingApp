@@ -1,6 +1,8 @@
 # DatingApp
 # Create gitignore file 
 dotnet new gitignore
+# Git Command to push the code
+1. git push -u origin main -> -u = upstream origin = repo name, main = branch name
 # To run the app with https, our browser need to Trust the certificate provided by .net SDK
 # Run the command "dotnet dev-certs https --trust" in the command window with administrator mode
 1. dotnet run
